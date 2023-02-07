@@ -1,1 +1,2 @@
-# SQL_basic
+# SQL assessment
+
